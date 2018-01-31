@@ -1,0 +1,12 @@
+.container{
+    position: relative;
+    top:100px;
+    height: 400px;
+    widows: 100px;
+    background-color:yellowgreen;
+}
+.info{
+    position: relative;
+    height: 400px;
+    width:500px;
+}
